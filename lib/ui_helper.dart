@@ -9,8 +9,8 @@ SizedBox mWidthSpacer({double mWidth = 20}) {
 }
 
 class AppColors {
-  Color AppbgColor = const Color(0xffdde7f3);
-  static const List The_colorTone = [
+  Color AppbgColor =  Color(0xffdde7f3);
+   List The_colorTone = [
     {
       "name" : "fdb7b9",
       "colorTone": const Color(0xfffdb7b9)
